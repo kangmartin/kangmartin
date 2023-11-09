@@ -5,7 +5,7 @@
 - LinkedIn: [Martin KANG](https://www.linkedin.com/in/martin-kang/)
 
 #### 💬 **Languages**:
-- Avdanced in English, native in French.
+- Advanced in English, native in French.
 
 ## Technologies & Tools :
 
