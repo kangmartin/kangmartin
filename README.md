@@ -1,6 +1,6 @@
 # Hi there ! 🌍
 
-I'm currently a 3rd year student at the EFREI Paris computer engineering school. 
+I'm currently a student at the EFREI Paris computer engineering school. 
 
 #### 📫 **How to Reach Me**: 
 - Email: [martin.kang@efrei.net](mailto:martin.kang@efrei.net)
