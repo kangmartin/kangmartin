@@ -1,13 +1,13 @@
 # Hi there ! 🌍
 
-I'm currently a student at the EFREI Paris computer engineering school. 
+I'm currently a master's degree student in Software Engineering at the EFREI Paris computer engineering school. 
 
 #### 📫 **How to Reach Me**: 
 - Email: [martin.kang@efrei.net](mailto:martin.kang@efrei.net)
 - LinkedIn: [Martin KANG](https://www.linkedin.com/in/martin-kang/)
 
 #### 💬 **Languages**:
-- Advanced in English, bilingual in Chinese and native in French.
+- Advanced in English and native in French.
 
 ## Technologies & Tools :
 
